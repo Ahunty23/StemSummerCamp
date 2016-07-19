@@ -1,0 +1,23 @@
+body {
+            
+            background-image: url(http://bgfons.com/upload/lines_texture1090.jpg);
+        }
+        h1 {
+            color:white;
+            text-align: center;
+        }
+        p {
+        
+            color:white;
+            text-align: center;
+        
+        }
+        #image {
+            float:right;
+            width:540px;
+            height:auto;
+        }
+        .{
+            color: white;
+            }
+    
