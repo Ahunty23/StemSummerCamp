@@ -3,7 +3,7 @@ body {
             background-image: url(http://www.myscbc.org/wp-content/uploads/2015/06/1190164-dark-blue-background-hd.jpg);
         }
         h1 {
-            color:white;
+            
             text-align: center;
         }
         p {
@@ -13,11 +13,17 @@ body {
         
         }
         #image {
+            
             float:right;
             width:540px;
             height:auto;
         }
         .list{
-            color: white;
+            
+            color: Grey;
             }
     
+        ul {
+            
+            color: white;
+        }
