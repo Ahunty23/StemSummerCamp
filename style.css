@@ -21,9 +21,13 @@ body {
         .list{
             
             color: Grey;
-            }
+        }
     
         ul {
             
             color: white;
         }
+        a:visited {
+            color: grey;
+        }
+                       
